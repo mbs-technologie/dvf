@@ -23,7 +23,7 @@
     "get-stream": "^5.1.0",
     "gunzip-stream": "^1.0.1",
     "into-stream": "^5.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.17",
     "pumpify": "^1.5.1"
   },
   "devDependencies": {
