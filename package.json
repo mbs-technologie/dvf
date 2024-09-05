@@ -16,7 +16,7 @@
     "@turf/centroid": "^6.0.2",
     "@turf/truncate": "^6.0.1",
     "bluebird": "^3.5.4",
-    "csv-parser": "^2.2.0",
+    "csv-parser": "^2.3.3",
     "csv-write-stream": "^2.0.0",
     "dotenv": "^7.0.0",
     "fs-extra": "^7.0.1",
